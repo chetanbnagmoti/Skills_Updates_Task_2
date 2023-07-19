@@ -1,0 +1,28 @@
+.cheading{
+    font-weight: bold;
+    font-size: xx-large;
+    color: red;
+    font-style: italic;
+}
+
+.sname{
+    font-size: large;
+    font-weight: 500;
+    font-style: normal;
+    color: blue;
+}
+
+.avg{
+    font-size: xx-large;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(255, 0, 0);
+}
+
+.result{
+    font-size: xx-large;
+    font-weight: bold;
+    font-style: normal;
+   
+   
+}

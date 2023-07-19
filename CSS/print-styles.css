@@ -1,0 +1,26 @@
+/* print-styles.css */
+
+/* Set margins for the printed page */
+@page {
+    size: A4;
+    margin: 10mm;
+  }
+  
+  /* Set font size for the printed content */
+  body {
+    font-size: 12px;
+  }
+  
+  /* Optionally, you can hide elements that are not needed in the printed version */
+  /* For example, hiding the "Back" button and "Print" button */
+  /* print-styles.css */
+@media print {
+    #backButton {
+      display: none;
+    }
+    #print{
+        display: none;
+    }
+  }
+  
+  
